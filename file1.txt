@@ -1,2 +1,3 @@
 This is my first file while learning Git
 New line added to the file
+This is third line
