@@ -3,3 +3,4 @@ New line added to the file
 This is third line
 Fourth line is added now
 Fifth line added
+Sixth line added 
